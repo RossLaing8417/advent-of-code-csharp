@@ -1,2 +1,3 @@
-# advent-of-code-csharp
-Advent of Code in C#
+# Advent of Code - C#
+
+Solving Advent of Code using C#
